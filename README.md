@@ -1,1 +1,1 @@
-This repo was created to host by project on gitHub pages
+This repo was created to host my project on gitHub pages
